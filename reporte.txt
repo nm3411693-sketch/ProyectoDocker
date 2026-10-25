@@ -1,0 +1,15 @@
+REPORTE TRANSLOGISTICA
+========================================
+
+Total de envíos: 3
+Precio promedio: $25,000
+Precio máximo: $32,000
+Precio mínimo: $18,000
+
+Envíos por estado:
+estado
+Entregado      1
+En tránsito    1
+Pendiente      1
+
+Calificación promedio de satisfacción: 4.67
